@@ -1,0 +1,11 @@
+.nav-link.nav-item{
+    margin-left: 7vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.navbar-brand.img-thumbnail{
+    margin-right:7vw;
+    margin-left:3vw;
+}
+.nav-link.nav-item:hover{
+   color:white;
+}

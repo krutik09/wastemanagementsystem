@@ -1,0 +1,20 @@
+.footer{
+    background-color:darkslateblue;
+    height: auto;
+
+}
+
+#foot{
+    margin-top: 40px;
+    color: white;
+}
+.text{
+    margin-left: 10px;
+    font-family: 'Oswald', sans-serif;  
+}
+.logo2{
+    /* font-size: 25px;*/
+    height: 150px; 
+    text-align: center;
+    /* padding-left: 60px; */
+}

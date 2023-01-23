@@ -1,0 +1,31 @@
+.C1{
+    width: 18rem;
+    margin: auto;
+    margin-top: 30px;
+    height: auto;
+    
+}
+
+.Info{
+    flex-direction: row;
+}
+
+img{
+    margin-top: 10px;
+    border-radius: 15px;
+}
+.inf{
+    text-align: center;
+    word-spacing: normal;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+    font-size: 50px;
+    margin: 40px;
+    padding-top: 40px;
+}
+
+.information{
+background-color: blue;
+background-image: linear-gradient(blue,white);
+}

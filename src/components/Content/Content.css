@@ -1,0 +1,60 @@
+.Content{
+    background-color: white;
+}
+
+
+.row{
+    padding: 10px;
+}
+
+#col21{
+    text-align: center;
+}
+
+#col22{
+    flex:10 0;
+    text-align: justify;
+}
+
+#col31,#col22{
+    width: 75%;
+    color: black;
+}
+#col31{
+    text-align: center;
+}
+
+
+@media (min-width: 768px){
+.col-md-3 {
+    /* flex: 0 0 auto; */
+    width: 25%;
+}
+}
+
+.head{
+    text-align: center;
+    padding: 30px;
+    color: blue;
+   font-weight: bold;
+}
+
+.lorem{
+    word-spacing: 5px;
+}
+
+
+.imge{
+    margin-bottom: 30px;
+    border-radius: 15px;
+}
+
+
+.dataa{
+    text-align: center;
+    word-spacing: normal;
+    font-weight: bold;
+    color: blue;
+    font-size: 30px;
+    margin: 40px;
+}
